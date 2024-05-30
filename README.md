@@ -42,7 +42,10 @@ To view and interact with the project on Google Colab:
 3. Open Google Colab and navigate to the uploaded notebook.
 4. Ensure you have the `campaign_responses.csv` file accessible, either by uploading it to Google Drive or using the appropriate path in the notebook.
 
+You can directly access the project on Google Colab using this [link](https://colab.research.google.com/drive/1FQfGmeyrbS7ka7MuA6tGkgKwKUbDCZCp?usp=sharing).
+
 For detailed instructions, please refer to the `C964-Task2pdf.pdf` document included in the repository.
+
 
 ---
 ### Requirements
